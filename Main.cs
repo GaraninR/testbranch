@@ -6,6 +6,14 @@ using System.Threading.Tasks;
 
 namespace CSharpTutorials
 {
+    
+    class Box 
+    {
+        int height;
+        int weight;
+        int length;
+    }
+    
     class Program
     {
         static void Main(string[] args)
